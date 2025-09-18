@@ -1,1 +1,3 @@
-# edzien
+#AGIN
+zjebany dziennik dla zjebanych ludzi
+prace w toku...
